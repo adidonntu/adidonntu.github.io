@@ -1,5 +1,5 @@
 <div class="card">
-    <div class="card-content">
+    <!-- <div class="card-content"> -->
     {% if post.image %}
     <div class="card-image">
         <img src="{{ post.image }}" alt="{{ post.title }}">
@@ -19,9 +19,10 @@
         <div class="has-text-centered">
             <a href="{{ site.baseurl }}{{ post.url }}" class="button is-primary">Читать далее</a>
         </div>
-    </div>
+    <!-- </div> -->
+</div>
     <footer class="card-footer">
-        <p class="card-footer-item">Опубликовано: {{ post.date | date: "%-d" }} {% assign m = post.date | date: "%-m", %} 
+        <p class="card-footer-item">Опубликовано: {{ post.date | date: "%-d" }} {% assign m = post.date | date: "%-m", %}
 {% case m %}
   {% when '1' %}Января
   {% when '2' %}Февраля
@@ -39,5 +40,4 @@
 </p>
 
     </footer>
-</div>
 </div>

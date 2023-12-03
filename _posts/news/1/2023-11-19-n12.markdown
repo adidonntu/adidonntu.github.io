@@ -4,7 +4,7 @@ title:  "Географический праздник в АДИ"
 date:   2023-11-19
 description: "Географический праздник в АДИ"
 image: '/img/2023/prR3f6zm1J8.jpg'
-hero_image: 
+hero_image: "/img/news_bg-min.jpg"
 hero_height: is-medium
 published: true
 excerpt_separator: <!--more-->

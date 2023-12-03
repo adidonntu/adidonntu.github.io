@@ -1,15 +1,15 @@
 ---
 layout: post-test
-title:  "Поездка в Кузбасс (день пятый)"
-date:   2023-11-23
+title: "Поездка в Кузбасс (день пятый)"
+date: 2023-11-23
 description: "Поездка в Кузбасс (день пятый)"
-image: '/img/2023/6_ptqzMrgLs_0-min.jpg'
-hero_image: 
+image: "/img/2023/6_ptqzMrgLs_0-min.jpg"
+hero_image: "/img/news_bg-min.jpg"
 hero_height: is-medium
 published: true
 excerpt_separator: <!--more-->
-canonical_url: 
-tags: ['Кузбасс']
+canonical_url:
+tags: ["Кузбасс"]
 author:
 permalink: "blog/16"
 ---

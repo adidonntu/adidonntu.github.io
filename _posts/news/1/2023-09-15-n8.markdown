@@ -4,7 +4,7 @@ title:  "Внимание эвакуированных работников!"
 date:   2023-09-15
 description: "Внимание"
 image: '/img/Warning.png'
-hero_image: 
+hero_image: "/img/news_bg-min.jpg"
 hero_height: is-medium
 published: true
 excerpt_separator: <!--more-->

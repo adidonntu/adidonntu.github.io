@@ -4,7 +4,7 @@ title: "Подготовительные курсы"
 date: 2023-05-20
 description: "Подготовительные курсы"
 image: "/img/2023/text_dlya_sayta_podgotovitelne_kursy.jpg"
-hero_image:
+hero_image: "/img/news_bg-min.jpg"
 hero_height: is-medium
 published: true
 excerpt_separator: <!--more-->

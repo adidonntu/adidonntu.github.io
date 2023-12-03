@@ -4,7 +4,7 @@ title:  "Встреча с директором АДИ ДонНТУ"
 date:   2019-07-23 08:00:07
 description: "Встреча с директором 14.11.2019"
 image: '/img/meetdir-1.jpg'
-hero_image: 
+hero_image: "/img/news_bg-min.jpg"
 hero_height: is-medium
 published: true
 excerpt_separator: <!--more-->

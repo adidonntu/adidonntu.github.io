@@ -4,7 +4,7 @@ title: "ВНИМАНИЕ!!! ДОПОЛНИТЕЛЬНЫЙ НАБОР - 2023"
 date: 2023-10-01
 description: "ДОПОЛНИТЕЛЬНЫЙ НАБОР - 2023"
 image: "/doc/2023/abitur/additional.jpg"
-hero_image:
+hero_image: "/img/news_bg-min.jpg"
 hero_height: is-medium
 published: true
 excerpt_separator: <!--more-->

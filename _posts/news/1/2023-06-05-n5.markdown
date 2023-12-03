@@ -4,7 +4,7 @@ title:  "Уважаемые абитуриенты и родители!"
 date:   2023-06-05
 description: "Уважаемые абитуриенты и родители!"
 image: '/img/empty.png'
-hero_image: 
+hero_image: "/img/news_bg-min.jpg"
 hero_height: is-medium
 published: true
 excerpt_separator: <!--more-->

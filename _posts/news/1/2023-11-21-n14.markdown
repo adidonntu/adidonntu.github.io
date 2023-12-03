@@ -4,7 +4,7 @@ title:  "Поездка в Кузбасс (день второй)"
 date:   2023-11-21
 description: "Поездка в Кузбасс (день второй)"
 image: '/img/2023/Ne_FsEvOjFM-min.jpg'
-hero_image: 
+hero_image: "/img/news_bg-min.jpg"
 hero_height: is-medium
 published: true
 excerpt_separator: <!--more-->

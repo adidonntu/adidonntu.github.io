@@ -3,6 +3,7 @@ layout: post-test
 title:  "Открытие Третьего творческого фестиваля «Зимняя фантазия»"
 date:   2018-05-28 10:50:07
 description: "Открытие Третьего творческого фестиваля «Зимняя фантазия»"
+hero_image: "/img/news_bg-min.jpg"
 hero_height: is-medium
 image: '/img/winter-fantasy-1.jpg'
 published: true

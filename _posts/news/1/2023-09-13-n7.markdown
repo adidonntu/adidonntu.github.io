@@ -4,7 +4,7 @@ title:  "Подписание договоров по созданию проф�
 date:   2023-09-13
 description: "Подписание договоров"
 image: '/img/2023/09-13-signing-contract.jpg'
-hero_image: 
+hero_image: "/img/news_bg-min.jpg"
 hero_height: is-medium
 published: true
 excerpt_separator: <!--more-->

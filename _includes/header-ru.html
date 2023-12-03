@@ -3,7 +3,7 @@
 <nav class="navbar is-primary">
   <div class="container">
     <div class="navbar-brand">
-      <a class="navbar-item" href="/">
+      <a class="navbar-item navbar-item-logo" href="/">
         <img class="adi-logo-img" src="/img/navlogo.png" alt="АДИ ДОННТУ" width="22" />
         <p class="is-size-5 adi-logo">АДИ "ДОННТУ"</p>
       </a>
@@ -17,8 +17,9 @@
     <div id="navMenubd" class="navbar-menu">
       <div class="navbar-start">
         <div class="navbar-item has-dropdown is-hoverable">
-          <div class="navbar-link">
+          <div class="navbar-link navbar-link-arrow">
             <i class="fas fa-university"></i>&emsp;О институте
+            <i class="fa-solid fa-chevron-down"></i>
           </div>
           <div class="navbar-dropdown is-boxed">
             <a class="navbar-item" href="{{ site.baseurl }}/sveden/common/"
@@ -41,8 +42,9 @@
           </div>
         </div>
         <div class="navbar-item has-dropdown is-hoverable is-mega">
-          <div class="navbar-link">
-            <i class="far fa-building"></i>&emsp;Структура АДИ ДОННТУ"
+          <div class="navbar-link navbar-link-arrow">
+            <i class="far fa-building"></i>&emsp;Структура "АДИ ДОННТУ"
+            <i class="fa-solid fa-chevron-down"></i>
           </div>
           <div
             id="blogDropdown"
@@ -93,8 +95,9 @@
           </div>
         </div>
         <div class="navbar-item has-dropdown is-hoverable is-mega">
-          <div class="navbar-link">
+          <div class="navbar-link navbar-link-arrow">
             <i class="fas fa-landmark"></i>&emsp;Факультеты
+            <i class="fa-solid fa-chevron-down"></i>
           </div>
           <div
             id="blogDropdown"
@@ -191,12 +194,15 @@
             </div>
           </div>
         </div>
-        <a class="navbar-item" href="/blog/">
+        <a class="navbar-link" href="/abiturient/2023">
+          <i class="fas fa-user"></i>&emsp;Абитуриенту 2023
+        </a>
+        <a class="navbar-link" href="/blog/">
           <i class="far fa-newspaper"></i>&emsp;Новости
         </a>
       </div>
       <div class="navbar-end">
-        <button id="search-button" class="navbar-item">
+        <button id="search-button" class="navbar-search">
           <i class="fas fa-search"></i>
         </button>
 				<!--<div class="navbar-item has-dropdown is-hoverable">

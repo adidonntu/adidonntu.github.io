@@ -4,7 +4,7 @@ title: "Инструкция для электронной подачи доку
 date: 2023-06-12
 description: "Инструкция для электронной подачи документов"
 image: "/img/empty.png"
-hero_image:
+hero_image: "/img/news_bg-min.jpg"
 hero_height: is-medium
 published: true
 excerpt_separator: <!--more-->

@@ -4,7 +4,7 @@ title:  "Поездка в Кузбасс (день первый)"
 date:   2023-11-20
 description: "Поездка в Кузбасс (день первый)"
 image: '/img/2023/QKyKivdLpJQ-min.jpg'
-hero_image: 
+hero_image: "/img/news_bg-min.jpg"
 hero_height: is-medium
 published: true
 excerpt_separator: <!--more-->

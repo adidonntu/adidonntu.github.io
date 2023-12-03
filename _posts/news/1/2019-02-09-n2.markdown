@@ -4,6 +4,7 @@ title:  "Конкурс Бизнес-проектов"
 date:   2019-02-09 20:00:07
 description: "Конкурс Бизнес-проектов"
 image: '/img/business-projects-1.jpg'
+hero_image: "/img/news_bg-min.jpg"
 hero_height: is-medium
 published: true
 canonical_url: 

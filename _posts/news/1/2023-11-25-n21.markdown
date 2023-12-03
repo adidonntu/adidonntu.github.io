@@ -1,0 +1,29 @@
+---
+layout: post-test
+title: "Поездка в Кузбасс (день седьмой)"
+date: 2023-11-25 20:58
+description: "Поездка в Кузбасс (день седьмой)"
+image: "/img/2023/w-ejZaPk6JA-min.jpg"
+hero_image: "/img/news_bg-min.jpg"
+hero_height: is-medium
+published: true
+excerpt_separator: <!--more-->
+canonical_url:
+tags: ["Кузбасс"]
+author:
+permalink: "blog/21"
+---
+
+23.11.2023 (вторая половина дня) <!--more-->
+
+Участие делегации АДИ ДонНТУ в закрытии Всероссийской научно-практической конференции «Развитие производительных сил Куzбасса»
+
+![Поездка в Кузбасс](/img/2023/w-ejZaPk6JA-min.jpg)
+
+![Поездка в Кузбасс](/img/2023/LXobcENWHaE-min.jpg)
+
+
+
+
+
+
