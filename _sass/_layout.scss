@@ -266,7 +266,11 @@ div.highlight {
 /* TAGS BLOG */
 
 .tag-blog-li {
-  border-bottom: 2px solid #f1f1f1;
+  padding: 0 15px;
+}
+
+.tag-blog-li:nth-child(2n){
+  background: #f1f1f1;
 }
 
 .tag-blog {
