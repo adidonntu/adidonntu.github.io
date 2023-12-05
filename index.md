@@ -14,7 +14,7 @@ menubar: f-sidebar
     <div class="tile is-parent">
         <div class="card" style="width: 100%;">
     <div class="card-image">
-        <img src="/img/630_360_1498722500-5488.jpg" alt="Факультет ДТ" class="center">
+        <img src="/img/630_360_1498722500-5488.jpg" alt="Факультет ДТ" style="width: 100%" class="center">
     </div>
     <div class="card-content">
         <div class="content">
