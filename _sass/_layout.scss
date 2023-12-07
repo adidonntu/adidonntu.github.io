@@ -50,6 +50,16 @@
   color: white;
 }
 
+::-moz-selection { /* Code for Firefox */
+  color: white;
+  background: #366;
+}
+
+::selection {
+  color: white;
+  background: #366;
+}
+
 input {
   outline: none;
 }
