@@ -159,14 +159,14 @@ div.highlight {
 #search-close {
     cursor: pointer;
     position: absolute;
-    top: -15px;
-    right: -15px;
-    width: 30px;
-    height: 30px;
-    border: none;
+    top: -9px;
+    right: -9px;
+    width: 35px;
+    height: 35px;
     color: white;
     border-radius: 50px;
     font-weight: bold;
+    border: 4px solid white;
     background: #d53535;
 }
 
@@ -182,8 +182,10 @@ div.highlight {
 }
 
 #search-input {
-    width: calc(100% - 30px);
-    margin: 15px;
+    z-index: 9999;
+    position: relative;
+    width: calc(100% - 52px);
+    margin: 26px 26px 15px 26px;
     padding: 12px 20px;
     font-size: 18px;
     outline: 2px solid #c2c2c2;
@@ -212,7 +214,7 @@ div.highlight {
 #search-results {
   overflow-y: auto;
   margin: 5px 2px;
-  max-height: calc(100vh - 175px);
+  max-height: calc(100vh - 210px)
 }
 
 .search-item {
@@ -236,8 +238,8 @@ div.highlight {
 
 @media screen and (max-width: 650px) {
   #search-close {
-    top: -50px;
-    left: calc(50% - 15px);
+    top: -60px;
+    left: calc(50% - 18px);
   }
 }
 
