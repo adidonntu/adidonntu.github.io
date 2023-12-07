@@ -11,7 +11,7 @@ menubar: f-sidebar
 
 <p class="title is-5">Вступительная компания 2023</p>
 <div class="tile is-ancestor">
-    <div class="tile is-parent">
+    <div class="tile is-parent" style="padding: 0.75rem 0">
         <div class="card" style="width: 100%;">
     <div class="card-image">
         <img src="/img/630_360_1498722500-5488.jpg" alt="Факультет ДТ" style="width: 100%" class="center">
